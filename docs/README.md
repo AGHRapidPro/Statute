@@ -9,7 +9,7 @@ im. Stanisława Staszica w Krakowie
 
 ## §1. Postanowienia ogólne
 
-1. Koło Naukowe pod nazwą _AGH Rapid Prototyping_, jest uczelnianą organizacją studencką, w rozumieniu art. 111 ustawy z dnia 20 lipca 2018 r. [— _Prawo o szkolnictwie wyższym i nauce_](https://www.gov.pl/documents/1068557/1069061/ustawa_Prawo_o_szkolnictwie_wy%C5%BCszym_i_nauce_DzU_30082018.pdf/91bcb704-5009-98ae-6fe9-ee3f1cd86688).
+1. Koło Naukowe pod nazwą _AGH Rapid Prototyping_, jest uczelnianą organizacją studencką, w rozumieniu art. 111 ustawy z dnia 20 lipca 2018 r. — [_Prawo o szkolnictwie wyższym i nauce_](https://www.gov.pl/documents/1068557/1069061/ustawa_Prawo_o_szkolnictwie_wy%C5%BCszym_i_nauce_DzU_30082018.pdf/91bcb704-5009-98ae-6fe9-ee3f1cd86688).
 2. Koło zrzesza wyłącznie studentów [Akademii Górniczo-Hutniczej im. Stanisława
    Staszica w Krakowie](https://agh.edu.pl), zwanej dalej **Uczelnią**.
 3. Siedzibą Koła jest [Wydział Inżynierii Mechanicznej i Robotyki](https://imir.agh.edu.pl).
@@ -101,11 +101,11 @@ im. Stanisława Staszica w Krakowie
 ## §5. Zarząd
 
 1. <a name='5-1'></a>Zarząd jest wybierany przez Walne Zebranie spośród członków Koła. Uchwały w sprawie wyboru Zarządu są podejmowane w głosowaniu tajnym bezwzględną większością głosów,
-2. Zarząd Koła składa się z trzech osób, które spośród swego grona wybierają Przewodniczącego, kierującego pracami Zarządu i reprezentującego go na zewnątrz.
-   > Walne zebranie członków Koła może ustalić inną liczbę członków Zarządu.
+2. Zarząd Koła składa się z trzech osób, które spośród swego grona wybierają Przewodniczącego, kierującego pracami Zarządu i reprezentującego go na zewnątrz. [^1]
+   [^1]: Walne zebranie członków Koła może ustalić inną liczbę członków Zarządu.
 3. Dokumenty w imieniu Koła podpisuje Przewodniczący lub z jego upoważnienia członek Zarządu.
-4. Kadencja Zarządu trwa jeden rok akademicki.
-   > Walne Rbranie członków Koła może ustalić dłuższą kadencję Zarządu.
+4. Kadencja Zarządu trwa jeden rok akademicki. [^2]
+   [^2]: Walne Rbranie członków Koła może ustalić dłuższą kadencję Zarządu.
 5. Uchwały Zarządu są podejmowane zwykłą większością głosów.
 6. Zarząd jest organem wykonawczym Koła.
 7. Do kompetencji Zarządu należy w szczególności:
@@ -132,6 +132,6 @@ im. Stanisława Staszica w Krakowie
 1. Zmiana Regulaminu wymaga uchwały Walnego Zebrania Członków Koła podjętej większością 2/3 głosów przy obecności co najmniej połowy liczby członków Koła.
 2. Zarząd Koła Naukowego ma obowiązek pisemnego zawiadamiania Prorektora AGH właściwego do spraw studenckich o każdej zmianie treści niniejszego Regulaminu oraz każdej uchwale Walnego Zebrania Członków Koła, w terminie 14 dni od dnia dokonania zmiany.
 3. Walne Zebranie Członków Koła większością 2/3 głosów przy obecności co najmniej połowy liczby członków Koła może podjąć uchwałę w sprawie zawieszenia działalności, lub rozwiązania Koła,
-4. Niniejszy Regulamin wchodzi w życie z dniem 24.02.2024
+4. Niniejszy Regulamin wchodzi w życie z dniem 24.02.2020
 
 ![Podpisy protokolanta (Paweł Mieiński) i przewodniczącego (Jakub Bryła)](img/signoff.png)
